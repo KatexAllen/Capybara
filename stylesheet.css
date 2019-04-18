@@ -94,6 +94,10 @@ span{
     padding-bottom:2px;
 }
 
+p {
+  max-width: 75ch;
+}
+
 
 
 
