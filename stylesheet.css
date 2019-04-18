@@ -99,7 +99,11 @@ p {
   max-width: 75ch;
 }
 
-
+a:link {
+  color: #6f717d;
+  font-weight: bold;
+  text-decoration: underline;
+}
 
 
 
