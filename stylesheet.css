@@ -41,7 +41,7 @@ body {
   padding: 5px 10px;
   transition: bottom 300ms ease;
   position: relative;
-  bottom: 15px;
+  bottom: 0px;
 }
 
 .main-nav a:hover {
